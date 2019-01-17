@@ -1,4 +1,4 @@
-# ENM-540: Data-driven modeling and Probabilistic Scientific Computing
+# ENM531: Data-driven modeling and Probabilistic Scientific Computing
 
 ### Course Description
 
@@ -32,11 +32,12 @@ Students will leave this course with experience in:
 [Paris Perdikaris](https://www.seas.upenn.edu/directory/profile.php?ID=237) is an Assistant Professor of Mechanical Engineering and Applied Mechanics. His work spans a wide range of areas in computational science and engineering, with a particular focus on the analysis and design of complex physical and biological systems using machine learning, stochastic modeling, computational mechanics, and high-performance computing. Prior to Penn, he spent two years as a post-doctoral researcher at MIT developing machine learning algorithms that synergistically combine multi-fidelity data with prior knowledge (e.g. differential equations and the conservation laws of mathematical physics) towards establishing a new paradigm in predictive modeling and decision making under uncertainty.
 
 
+
 ### Teaching Assistants
 
-TAs work one-on-one with students to guide them on projects and help problem-solve. Students are advised to consult a TA if they have tried something themselves and it hasn’t worked to their satisfaction.
+Please consult the TA regarding issues related to setting up your computing enviroment, code design, implementation, and execution.
 
-TA: Chenchen Hu,  Office Hours: Thursdays, 1:30-3:30pm, room 401B (3401 Walnut Street, 4th floor), Email: <hu10@seas.upenn.edu>
+TA: Yibo Yang,  Office Hours: Tuesdays, 6:00-7:00pm (PICS 534), Fridays, 11am-12pm (PICS 517), 3401 Walnut Street, 5th floor), Email: <ybyang@seas.upenn.edu>
 
 
 ### Note
