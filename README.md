@@ -1,8 +1,6 @@
-# ENM531: Data-driven modeling and Probabilistic Scientific Computing
-
 ### Course Description
 
-We will revisit classical scientific computing from a statistical learning viewpoint. In this new computing paradigm, differential equations, conservation laws, and data act as complementary agents in a predictive modeling pipeline. This course aims explore the potential of modern machine learning as a unifying computational tool that enables learning models from experimental data, inferring solutions to differential equations, blending information from a hierarchy of models,  quantifying uncertainty in computations, and efficiently optimizing complex engineering systems. 
+We will revisit classical scientific computing from a statistical learning viewpoint. In this new computing paradigm, differential equations, conservation laws, and data act as complementary agents in a predictive modeling pipeline. This course aims explore the potential of modern machine learning as a unifying computational tool that enables learning models from experimental data, inferring solutions to differential equations, blending information from a hierarchy of models  quantifying uncertainty in computations, and efficiently optimizing complex engineering systems. 
 
 Specific topics to be covered span recent developments in supervised and unsupervised learning: nonlinear regression/classification with deep neural networks, multi-fidelity modeling and computation under uncertainty using Gaussian processes, Bayesian optimization, convolutional and recurrent neural networks, model reduction using principal component analysis, variational auto-encoders, and probabilistic latent variable models. The effectiveness of these tools will be demonstrated through several engineering applications including examples in fluid dynamics, heat transfer, design optimization, and modeling of cardiovascular flows. 
 
@@ -32,12 +30,11 @@ Students will leave this course with experience in:
 [Paris Perdikaris](https://www.seas.upenn.edu/directory/profile.php?ID=237) is an Assistant Professor of Mechanical Engineering and Applied Mechanics. His work spans a wide range of areas in computational science and engineering, with a particular focus on the analysis and design of complex physical and biological systems using machine learning, stochastic modeling, computational mechanics, and high-performance computing. Prior to Penn, he spent two years as a post-doctoral researcher at MIT developing machine learning algorithms that synergistically combine multi-fidelity data with prior knowledge (e.g. differential equations and the conservation laws of mathematical physics) towards establishing a new paradigm in predictive modeling and decision making under uncertainty.
 
 
-
 ### Teaching Assistants
 
 Please consult the TA regarding issues related to setting up your computing enviroment, code design, implementation, and execution.
 
-TA: Yibo Yang,  Office Hours: Tuesdays, 6:00-7:00pm (PICS 534), Fridays, 11am-12pm (PICS 517), 3401 Walnut Street, 5th floor), Email: <ybyang@seas.upenn.edu>
+TA: Yibo Yang,  Office Hours: Tuesdays, 6:00-7:00pm (PICS 534), Fridays, 11am-12pm (active learning room, 401B), 3401 Walnut Street, Email: <ybyang@seas.upenn.edu>
 
 
 ### Note
