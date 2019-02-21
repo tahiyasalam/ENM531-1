@@ -40,11 +40,11 @@ if __name__ == "__main__":
     test_labels = test_set[1]
     
     # Check a few samples to make sure the data was loaded correctly
-#    plot_random_sample(train_images, train_labels)
+    plot_random_sample(train_images, train_labels)
     
     # Define model
     model = ConvNet(train_images, train_labels)
-    
+        
     # Train
     model.train(num_epochs = 10, batch_size = 128)
     
