@@ -43,7 +43,7 @@ if __name__ == "__main__":
     hyp = np.concatenate([sigma_f, lam, p])
     
     # GP prior mean and covariance
-    mu = 0.0
+    mu = np.sqrt(np.abs(X))
     K_xx = kernel(X, X, hyp)
 
     # Compute the Cholesky factors

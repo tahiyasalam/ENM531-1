@@ -35,7 +35,7 @@ if __name__ == "__main__":
     
     # Kernel hyper-parameters    
     sigma_f = np.array([np.log(1.0)])
-    lam = np.array([np.log(0.1)])
+    lam = np.array([np.log(5.0)])
     hyp = np.concatenate([sigma_f, lam])
 
     # GP prior mean and covariance 

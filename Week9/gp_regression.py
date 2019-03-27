@@ -16,7 +16,7 @@ np.random.seed(1234)
 
 if __name__ == "__main__":    
     
-    N = 1000
+    N = 200
     D = 1
     lb = -1.0*np.ones(D)
     ub = 1.0*np.ones(D)
